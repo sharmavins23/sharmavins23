@@ -28,7 +28,6 @@ Take a look at some of my various projects!
 <img align="left" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" src="https://img.icons8.com/fluent/48/000000/circuit.png"/>
 
 <br />
 <br />
