@@ -29,7 +29,6 @@ Take a look at some of my various projects!
 <img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
 <img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 
-<br />
-<br />
+## <i>Stats</i>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23)](https://github.com/anuraghazra/github-readme-stats)
