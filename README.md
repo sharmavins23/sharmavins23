@@ -3,8 +3,6 @@
     <a href="https://sharmavins23.github.io">Vins Sharma</a>.
 </h2>
 
----
-
 ## 🗣 <i>Meet me</i>
 
 I'm a developer who's passionate about all fields of technology. From computer
@@ -15,8 +13,6 @@ I love to learn as much as I love to teach, and even though I'm currently a
 student, I hope to share what I know as much as possible.
 
 Take a look at some of my various projects!
-
----
 
 ## 💾 <i>Languages and Tools</i>
 
@@ -36,5 +32,7 @@ Take a look at some of my various projects!
 
 <br />
 <br />
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23)](https://github.com/anuraghazra/github-readme-stats)
