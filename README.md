@@ -32,6 +32,4 @@ Take a look at some of my various projects!
 <br />
 <br />
 
----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23)](https://github.com/anuraghazra/github-readme-stats)
