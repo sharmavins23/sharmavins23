@@ -1,6 +1,6 @@
 <h2 align="center">
     👋 Hello there, I'm 
-    <a href="https://sharmavins23.github.io">Vins Sharma</a>.
+    Vins.
 </h2>
 
 ## 🗣 <i>Meet me</i>
