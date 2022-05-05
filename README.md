@@ -3,6 +3,9 @@
     <a href="https://sharmavins23.github.io">Vins Sharma</a>.
 </h2>
 
+_Student at Carnegie Mellon
+([Check out my LinkedIn](https://www.linkedin.com/in/sharmavins/))_
+
 ## 🗣 <i>Meet me</i>
 
 I'm a developer who's passionate about all fields of technology. From computer
@@ -16,23 +19,18 @@ Take a look at some of my various projects!
 
 ## 💾 <i>Languages and Tools</i>
 
-<img align="left" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img align="left" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/html-5.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/react-native.png"/>
-<img align="left" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/kotlin.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+|                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Languages**  | <img style="width: 46px; height: 46px" src="assets/c.svg" alt="C"><img style="width: 46px; height: 46px" src="assets/cplusplus.svg" alt="C++"><img style="width: 46px; height: 46px" src="assets/csharp.svg" alt="C#"><img style="width: 46px; height: 46px" src="assets/java.svg" alt="Java"><img style="width: 46px; height: 46px" src="assets/javascript.svg" alt="JavaScript"><img style="width: 46px; height: 46px" src="assets/kotlin.svg" alt="Kotlin"><img style="width: 46px; height: 46px" src="assets/python.svg" alt="Python"><img style="width: 46px; height: 46px" src="assets/racket.svg" alt="Racket"><img style="width: 46px; height: 46px" src="assets/solidity.svg" alt="Solidity"><img style="width: 46px; height: 46px" src="assets/typescript.svg" alt="TypeScript"> |
+| **Frameworks** | <img style="width: 46px; height: 46px" src="assets/dotnet.svg" alt=".NET"><img style="width: 46px; height: 46px" src="assets/angularjs.svg" alt="Angular"><img style="width: 46px; height: 46px" src="assets/css3.svg" alt="CSS3"><img style="width: 46px; height: 46px" src="assets/html5.svg" alt="HTML5"><img style="width: 46px; height: 46px" src="assets/nodedotjs.svg" alt="Node.js"><img style="width: 46px; height: 46px" src="assets/react.svg" alt="React">                                                                                                                                                                                                                                                                                                                     |
+| **Tools**      | <img style="width: 46px; height: 46px" src="assets/androidstudio.svg" alt="Android Studio"><img style="width: 46px; height: 46px" src="assets/azuredevops.svg" alt="Azure DevOps"><img style="width: 46px; height: 46px" src="assets/dassaultsystemes.svg" alt="Dassault Systèmes"><img style="width: 46px; height: 46px" src="assets/git.svg" alt="Git"><img style="width: 46px; height: 46px" src="assets/visualstudiocode.svg" alt="Visual Studio Code"><img style="width: 46px; height: 46px" src="assets/xilinx.svg" alt="Xilinx">                                                                                                                                                                                                                                                    |
 
 <br />
 <br />
+<br />
 
-## 📊 <i>Stats</i>
+## 📊 <i>Some Statistics</i>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sharmavins23&show_icons=true&hide_border=true&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23&show_icons=true&hide_border=true">
+| <i>My GitHub Stats<i>                                                                                                            | <i>The Languages I Use</i>                                                                                               |
+| -------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| <img src="https://github-readme-stats.vercel.app/api?username=sharmavins23&show_icons=true&hide_border=true&count_private=true"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23&show_icons=true&hide_border=true"> |
