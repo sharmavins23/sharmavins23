@@ -25,9 +25,6 @@ Take a look at some of my various projects!
 | **Frameworks** | <img style="width: 46px; height: 46px" src="assets/dotnet.svg" alt=".NET"><img style="width: 46px; height: 46px" src="assets/angularjs.svg" alt="Angular"><img style="width: 46px; height: 46px" src="assets/css3.svg" alt="CSS3"><img style="width: 46px; height: 46px" src="assets/html5.svg" alt="HTML5"><img style="width: 46px; height: 46px" src="assets/nodedotjs.svg" alt="Node.js"><img style="width: 46px; height: 46px" src="assets/react.svg" alt="React">                                                                                                                                                                                                                                                                                                                     |
 | **Tools**      | <img style="width: 46px; height: 46px" src="assets/androidstudio.svg" alt="Android Studio"><img style="width: 46px; height: 46px" src="assets/azuredevops.svg" alt="Azure DevOps"><img style="width: 46px; height: 46px" src="assets/dassaultsystemes.svg" alt="Dassault Systèmes"><img style="width: 46px; height: 46px" src="assets/git.svg" alt="Git"><img style="width: 46px; height: 46px" src="assets/visualstudiocode.svg" alt="Visual Studio Code"><img style="width: 46px; height: 46px" src="assets/xilinx.svg" alt="Xilinx">                                                                                                                                                                                                                                                    |
 
-<br />
-<br />
-
 ## 📊 <i>Some Statistics</i>
 
 | <i>My GitHub Stats<i>                                                                                                            | <i>The Languages I Use</i>                                                                                               |
