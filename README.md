@@ -27,7 +27,6 @@ Take a look at some of my various projects!
 
 <br />
 <br />
-<br />
 
 ## 📊 <i>Some Statistics</i>
 
