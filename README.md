@@ -17,7 +17,7 @@ Take a look at some of my various projects!
 
 ## 💾 <i>Languages and Tools</i>
 
-<table>
+<table align="center">
     <tr>
         <th><i>Type</i></th>
         <th><i>List</i></th>
