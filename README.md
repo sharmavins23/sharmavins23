@@ -2,9 +2,7 @@
     👋 Hello there, I'm 
     Vins.
 </h2>
-
-_Student at Carnegie Mellon
-([Check out my LinkedIn](https://www.linkedin.com/in/sharmavins/))_
+<h3 align="center"><i>Student at Carnegie Mellon (Check out my <a href="https://www.linkedin.com/in/sharmavins/">LinkedIn</a>!)</i></h3>
 
 ## 🗣 <i>Meet me</i>
 
@@ -49,6 +47,7 @@ Take a look at some of my various projects!
             <img style="width: 46px; height: 46px" src="assets/html5.svg" alt="HTML5" />
             <img style="width: 46px; height: 46px" src="assets/nodedotjs.svg" alt="Node.js" />
             <img style="width: 46px; height: 46px" src="assets/react.svg" alt="React" />
+            <img style="width: 46px; height: 46px" src="assets/svelte.svg" alt="Svelte" />
         </td>
     </tr>
     <tr>
@@ -73,10 +72,10 @@ Take a look at some of my various projects!
     </tr>
     <tr>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=sharmavins23&show_icons=true&hide_border=true&count_private=true">
+            <img src="https://streak-stats.demolab.com?user=sharmavins23&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D">
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23&show_icons=true&hide_border=true">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmavins23&layout=compact&theme=tokyonight&hide_border=true">
         </td>
     </tr>
 </table>
