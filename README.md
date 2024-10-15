@@ -2,7 +2,7 @@
     👋 Hello there, I'm 
     Vins.
 </h2>
-<h3 align="center"><i>Student at Carnegie Mellon (Check out my <a href="https://www.linkedin.com/in/sharmavins/">LinkedIn</a>!)</i></h3>
+<h3 align="center"><i>Software Development Engineer at Amazon (Check out my <a href="https://www.linkedin.com/in/sharmavins/">LinkedIn</a>!)</i></h3>
 
 ## 🗣 <i>Meet me</i>
 
@@ -10,8 +10,7 @@ I'm a developer who's passionate about all fields of technology. From computer
 architecture to circuit designing to web development, I've messed around with a
 lot and I'm nowhere near done.
 
-I love to learn as much as I love to teach, and even though I'm currently a
-student, I hope to share what I know as much as possible.
+I love to learn as much as I love to teach, and I hope to share what I know as much as possible.
 
 Take a look at some of my various projects!
 
